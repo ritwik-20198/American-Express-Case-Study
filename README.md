@@ -3,10 +3,10 @@
 ## American Express Profile 🚀
 **American Express (Amex) is a global services company that provides customers with access to products, insights and experiences that enrich lives and build business success.**
 
-• Global services company
-• Total assets: US $159 billion 
-• Annual revenues: US $34 billion 
-• Over 112 million cards issued
+* Global services company
+* Total assets: US $159 billion 
+* Annual revenues: US $34 billion 
+* Over 112 million cards issued
 
 
 ## How American Express uses Big Data in practice 🛠️
